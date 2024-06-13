@@ -1,3 +1,9 @@
+[![GitHub release](https://img.shields.io/badge/release-v1.0.0-brightgreen?style=flat-square)](https://github.com/SaDs3c/sadExtractor/releases/tag/V1.0.0)
+[![GitHub stars](https://img.shields.io/github/stars/SaDs3c/sadExtractor?style=flat-square)](https://github.com/SaDs3c/sadExtractor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SaDs3c/sadExtractor?style=flat-square)](https://github.com/SaDs3c/sadExtractor/network)
+[![GitHub issues](https://img.shields.io/github/issues/SaDs3c/sadExtractor?style=flat-square)](https://github.com/SaDs3c/sadExtractor/issues)
+[![GitHub license](https://img.shields.io/github/license/SaDs3c/sadExtractor?style=flat-square)](https://github.com/SaDs3c/sadExtractor/blob/main/LICENSE)
+
 # sadExtractor
 sadExtractor is a simple recon tool that extract all links from a web page. 
 
